@@ -1,11 +1,12 @@
 [package]
 name = "radesmee_encoder"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2024"
 description = "encodes utf8 text into radesmee/radaesmee binary code and the other way around too"
 repository = "https://github.com/pommeJedusor/radesmee_encoding/tree/main"
 license = "MIT OR Apache-2.0"
 keywords = ["cli"]
 categories = ["command-line-utilities"]
+readme = "README.md"
 
 [dependencies]

@@ -4,4 +4,4 @@ version = 4
 
 [[package]]
 name = "radesmee_encoder"
-version = "0.1.0"
+version = "0.1.1"
